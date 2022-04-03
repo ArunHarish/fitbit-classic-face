@@ -102,3 +102,10 @@ dist
 
 # TernJS port file
 .tern-port
+
+# no build
+build
+
+# no package.json
+# see package-clock-face.json
+package.json
